@@ -1,15 +1,16 @@
-id: opecha:P007039
+id: P007039
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS56008
   title: མངའ་རིས་ཆོས་འབྱུང་གངས་ལྗོངས་མཛེས་རྒྱན
-  volume:
+  author: ''
+  volumes:
     2b09b0522e394b50bde843532958198b:
       image_group_id: I1GS56011
       title: Volume 1 of mnga' ris chos 'byung gangs ljongs mdzes rgyan
       volume_number: 1
       total_pages: 534
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མངའ་རིས་ཆོས་འབྱུང་གངས་ལྗོངས་མཛེས་རྒྱན
   author: ''

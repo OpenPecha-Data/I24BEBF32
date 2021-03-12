@@ -5,11 +5,12 @@ source_metadata:
   title: མངའ་རིས་ཆོས་འབྱུང་གངས་ལྗོངས་མཛེས་རྒྱན
   author: ''
   volumes:
-    70b0f749b7224095afccb872c7629b3c:
+    2b09b0522e394b50bde843532958198b:
       image_group_id: I1GS56011
-      title: ''
+      title: Volume 1 of mnga' ris chos 'byung gangs ljongs mdzes rgyan
       volume_number: 1
       total_pages: 534
+      base_file: v001.txt
 ebook_metadata:
   title: མངའ་རིས་ཆོས་འབྱུང་གངས་ལྗོངས་མཛེས་རྒྱན
   author: ''
